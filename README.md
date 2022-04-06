@@ -1,8 +1,8 @@
 # Meu primeiro projeto da Trybe <3
 
-*Completou todos os requisitos haha 
+// Completou todos os requisitos haha 
 
-<img src="requisitos.png" alt="">
+<img src="requisitos-obg.png" alt="">
 
 # Boas vindas ao repositório do projeto Lições Aprendidas!
 

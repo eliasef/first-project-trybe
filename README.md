@@ -2,7 +2,7 @@
 
 *Completou todos os requisitos haha 
 
-<img src="https://fv9-3.failiem.lv/thumb_show.php?i=rwxzckcbq&view" alt="">
+<img src="requisitos.png" alt="">
 
 # Boas vindas ao repositório do projeto Lições Aprendidas!
 
